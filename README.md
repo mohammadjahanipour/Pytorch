@@ -1,2 +1,2 @@
-# PyTorch-Bootcamp
-Files for the Pytorch Deep Learning Bootcamp
+# PyTorch
+Files for the Pytorch Deep Learning 
